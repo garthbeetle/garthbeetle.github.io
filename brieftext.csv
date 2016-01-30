@@ -1,0 +1,58 @@
+Main Foyer 8 1000 8000
+Ticketing & Information 8 100 800
+Cloaking 4 50 200
+First Aid 4 10 40
+Front of House Offices 4 50 200
+Retail 4 300 1200
+Retail Storage/Office 4 10 40
+Café 4 350 1400
+Kitchen 4 100 400
+Commerical Kitchen 4 150 600
+Kitchen Storage/Prep 4 20 80
+Members Lounge 4 200 800
+Touring Gallery Major Touring Hall 12 1000 12000
+Major Touring Hall Retail 4 100 400
+N.B. Aspect ratio working assumption - golden ratio. Touring Hall Prep Space 4 250 1000
+Dock 4 20 80
+Children's Museum Indoor Exhibits 6 800 4800
+Pop-up Performance Space 6 200 1200
+N.B. 0-5 years. Parents Lounge 4 50 200
+Parents Rooms/Amenities 4 50 200
+Outdoor Experience 0 0 0
+Large Format Cinema/Planetarium 20 780 15600
+Main Theatre 8 1000 8000
+Small Theatre 8 580 4640
+Foyer/Breakout for Theatres 4 400 1600
+Servery 4 20 80
+Technical Office/BioBox 4 30 120
+Dressing Rooms/Backstage 4 100 400
+Media Studio 6 500 3000
++ 3x meeting rooms @ 30m2 each 4 90 360
+Residents' Offices 4 200 800
+Labs (6x200sqm) 4 1200 4800
+Library/Lounge 4 600 2400
+Education Arrivals 4 200 800
+Education Bags/Cloak 4 50 200
+Main Space 12 800 9600
+Technical/Equip/Staging/Storage 4 20 80
+Main Exhibits 6 1000 6000
+Temporary 6 500 3000
+Visible collections 4 400 1600
+Centre for Fashion/Study Centre 4 800 3200
+Main Exhibits 8 700 5600
+Main Exhibits 12 700 8400
+Temporary 6 500 3000
+Visible collections 4 400 1600
+Centre for STEM/Study Centre n/a n/a n/a
+Experience/Ride/Simulator 6 500 3000
+Back of House Collection Storage 4 3800 15200 5200 7870
+Conservation Workshop 4 300 1200
+Photo/Video Studio 6 20 120
+Construction Workshop 4 200 800
+Technical Workshop 4 200 800
+Workshop storage 4 250 1000
+Office Space 4 3000 12000
+Loading 4 50 200
+Stores 4 50 200
+Car Parking Visitor car parking 4 6000 24000
+Museum car parking 4 500 2000
